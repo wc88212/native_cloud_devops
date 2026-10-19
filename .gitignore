@@ -1,0 +1,10 @@
+# 忽略临时文件
+*.tmp
+*.log
+.DS_Store
+Thumbs.db
+# 虚拟机文件绝不能放进仓库（体积巨大）
+*.vmdk
+*.vdi
+*.qcow2
+*.iso
